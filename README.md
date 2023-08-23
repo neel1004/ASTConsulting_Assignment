@@ -33,7 +33,7 @@ This is a Python web scraping script that scrapes job listings from Indeed and s
 
 You can install the required Python packages using pip:
 
-# admin panel images
+## admin panel images
 ![Listed Images](Django-admin/img/admin.jpg)
 ![Listed Images](Django-admin/img/admin1.jpg)
 
